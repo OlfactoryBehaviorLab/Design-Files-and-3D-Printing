@@ -1,8 +1,8 @@
 
 # 2D and 3D Designs for the Dewan Lab
 
-![OdorPort](http://dewanlabneuro.fsu.acsitefactory.com/sites/g/files/upcbnu2156/files/github_images/Image1.jpg)
-![WaterDish](http://dewanlabneuro.fsu.acsitefactory.com/sites/g/files/upcbnu2156/files/github_images/water_dish.jpg)
+![OdorPort](http://dewanlabneuro.fsu.acsitefactory.com/sites/g/files/upcbnu2156/files/github_images/composite_1.jpg)
+
 
 Collection of 2D and 3D designs for custom components used in the Olfactory Behavior Lab at Florida State University.
 
